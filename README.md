@@ -37,6 +37,6 @@ Outcome: Helped stakeholders visualize sales and profit trends at a glance and i
 Suggested inventory optimization for low-profit items
 
 ## Interactive Dashboard
-<a href="https://github.com/rahbar8819/Sales-DataAnalysis-Dashboard/blob/main/FirstSalesDashboard.JPG">View Dashboard</a>
+<a href="https://github.com/rahbar8819/Sales-Data-Analysis-Dashboard/blob/main/FirstSalesDashboard.JPG">View Dashboard</a>
 
 ## Tools Used: Excel (Power Query, Pivot Tables, Charts, Data Model)
