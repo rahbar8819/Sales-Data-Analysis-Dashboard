@@ -1,7 +1,7 @@
 # Sales-DataAnalysis-Dashboard
 Delivered a data-driven sales and profit analysis solution that revealed growth opportunities and improved decision-making efficiency.
 ## Dataset Used
-<a href="https://github.com/rahbar8819/Sales-DataAnalysis-Dashboard/blob/main/Transactions.xlsx">Dataset</a>
+<a href="https://github.com/rahbar8819/Sales-Data-Analysis-Dashboard/blob/main/Transactions.xlsx">Dataset</a>
 # Project Overview
 ## What I Did:
 
